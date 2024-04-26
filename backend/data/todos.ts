@@ -2,17 +2,17 @@ export const todoData = {
     todos: [
         {
             "id": 1,
-            "title": "delectus aut autem",
+            "title": "finish assignments",
             "completed": false
         },
         {
             "id": 2,
-            "title": "quis ut nam facilis et officia qui",
+            "title": "pickup trash",
             "completed": true
         },
         {
             "id": 3,
-            "title": "fugiat veniam minus",
+            "title": "work on project",
             "completed": false
         }
     ],
